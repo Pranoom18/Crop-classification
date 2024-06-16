@@ -1,6 +1,8 @@
 # Crop-classification
 Crop Classification Using machine learning techniques 
 
+![image](https://github.com/Pranoom18/Crop-classification/assets/94820532/15c515b8-303d-48f8-a70a-0c6019653449)
+
 # Crop Classification with Machine Learning
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -23,6 +25,9 @@ Leveraging computer vision and machine learning to accurately identify and class
 ## About
 
 This project explores the application of machine learning techniques, particularly convolutional neural networks (CNNs), to the task of crop classification. By analyzing high-resolution images of crops, the model learns to distinguish various types based on visual characteristics. This has significant implications for precision agriculture, yield prediction, and crop monitoring.
+
+![image](https://github.com/Pranoom18/Crop-classification/assets/94820532/6f186d9e-1558-45d1-ae90-0ede4abfbb4b)
+
 
 ## How It Works
 
@@ -70,6 +75,8 @@ This project explores the application of machine learning techniques, particular
 | VGG16    | 90.3%    | 89.5%    | 91.1%  | 90.3%    |
 
 *Note: Results may vary depending on dataset and hyperparameters.*
+
+![image](https://github.com/Pranoom18/Crop-classification/assets/94820532/0688129e-e6ac-413f-8881-ee92cf6ea941)
 
 ## Future Work
 
